@@ -1,4 +1,4 @@
-# Website-Opener
+# Website-Unblocker
 a script that can open, BLOCKED Websites, with this simple command.
 # first, hit ctrl + shift + b, to show your bookmarks bar, then save the following code as a bookmark: 
 
